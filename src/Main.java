@@ -38,7 +38,7 @@ public class Main {
 
         int[] midSpend = {112, 9849, 654654, 32159, 1111};
         midSpend [0] = 112;
-        int sum1 = 0;
+        double sum1 = 0;
         for (int j : midSpend)  {
             sum1 += j;
         }
